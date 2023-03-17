@@ -1,4 +1,4 @@
-<img src="../img/rib_logo_hor_1_color_101.svg" width=450>
+<img src="rib_logo_hor_1_color_101.svg" width=450>
 
 # Ribbon Professional Services on GitHub
 
