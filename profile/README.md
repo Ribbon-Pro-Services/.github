@@ -5,25 +5,26 @@
 Welcome to the Ribbon Professional Service's organization on GitHub!
 
 Here you'll find repositories containing source artifacts for assorted projects developed by RBBN Pro Services. These might include orchestration templates 
-customized for a particular service or customer; python or shell scripts; CLI, TCL, or SQL scripts for customer provisioning; and utility software for 
+customized for a particular service or customer; Python or shell scripts; CLI, TCL, or SQL scripts for customer provisioning; and utility software for 
 working with Ribbon products and services.
 
-Customer specific repositories are private. Generally available source files and tools will be added to public repositories.
+Customer-specific repositories are private. Generally available source files and tools will be added to public repositories.
 
 ## Membership
 
-Membership to this organization is available to any member of the RBBN Pro Services team. Members should setup a GitHub account associated with their corporate
-email address.
+Membership in this organization is available to any member of the RBBN Pro Services team. Members should set up a GitHub account using their corporate email
+address.
 
 All members can view private and public repositories and clone them to their local system. Only those members with write permission may contribute changes
 to the GitHub repository.
 
-Some repositories are further restricted to a specific customer or project team. You should contact the site or team admiistrator to be added to a team.
+Some repositories are further restricted to a specific customer or project team. Contact the site or team administrator to be added to a team.
 
 ## Administrators
 
 The following people are administrators of this organization on GitHub
 
+* Shripal Kumar - sekumar@rbbn.com
 * Martin Jensen - mjensen@rbbn.com
 
 Contact any of the administrators to be added to the organization, to a team, or to have permissions adjusted.
